@@ -1,9 +1,4 @@
 # Eliezer318-Music-Generation-MIDI-AB-Format
-#
-
-Music Generated using the LSTM Model
-
-#
 
 #
 
